@@ -9,11 +9,7 @@ body{
     margin: 0 auto;
 }
 .post h1{
-<<<<<<< HEAD
     color: rgb(146, 127, 255);
-=======
-    color: rgb(255, 232, 127);
->>>>>>> cabecera
 }
 #cabecera{
     background: greenyellow;
