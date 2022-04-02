@@ -2,8 +2,7 @@ esta la primer version de este documento.
 
 master 1
 
-<<<<<<< HEAD
+
 master 2
-=======
+
 experimento 1
->>>>>>> a725f7c (exp-1)
