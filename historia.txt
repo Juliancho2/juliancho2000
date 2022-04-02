@@ -2,7 +2,6 @@ esta la primer version de este documento.
 
 master 1
 
-
 master 2
 
 experimento 1
